@@ -5,3 +5,6 @@
 bin/
 .exe
 .log
+
+$ General
+tmp/
